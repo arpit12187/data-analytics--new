@@ -1,0 +1,1 @@
+mode:legion 5 pro/nram:16 gb/ngraphics:rtx 3060/n
