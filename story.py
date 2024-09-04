@@ -7,4 +7,3 @@ while True:
     story +=line+"/n"
 print(f"Your story/n{story}")
 
-
